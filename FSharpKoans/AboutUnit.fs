@@ -22,7 +22,7 @@ module ``about unit`` =
         AssertEquality x () //Don't overthink this
 
     [<Koan>]
-    let ParameterlessFuncitonsTakeUnitAsTheirArgument() =
+    let ParameterlessFunctionsTakeUnitAsTheirArgument() =
         let sayHello() =
             "hello"
 
