@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KoansRunner.Test", "KoansRunner.Test\KoansRunner.Test.fsproj", "{9CB94405-DA47-4395-B9BE-06C564CA1B18}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsharpKoans.Core", "FSharpKoans.Core\FsharpKoans.Core.fsproj", "{71460AA5-7357-4F1C-99BC-54244B50B00E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpKoans", "FSharpKoans\FSharpKoans.fsproj", "{87C025E8-3E63-4A20-B1CA-2E346D0E0C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB94405-DA47-4395-B9BE-06C564CA1B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB94405-DA47-4395-B9BE-06C564CA1B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB94405-DA47-4395-B9BE-06C564CA1B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB94405-DA47-4395-B9BE-06C564CA1B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71460AA5-7357-4F1C-99BC-54244B50B00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71460AA5-7357-4F1C-99BC-54244B50B00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71460AA5-7357-4F1C-99BC-54244B50B00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71460AA5-7357-4F1C-99BC-54244B50B00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C025E8-3E63-4A20-B1CA-2E346D0E0C51}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{87C025E8-3E63-4A20-B1CA-2E346D0E0C51}.Debug|Any CPU.Build.0 = Debug|x86
+		{87C025E8-3E63-4A20-B1CA-2E346D0E0C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C025E8-3E63-4A20-B1CA-2E346D0E0C51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
